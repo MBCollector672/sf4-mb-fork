@@ -234,6 +234,9 @@ static removeAndHideIngredients as IIngredient[] = [
 	<pickletweaks:ppm4>,
 	<pickletweaks:ppm4:1>,
 	<nuclearcraft:fission_controller_idle>,
+	<tp:charcoal_block>,
+	<mekanism:basicblock:3>,
+	<chisel:block_charcoal2:1>,
 
 	//Na na na na na na na na HEY HEY HEY GOODBYE ... to certus quartz
 	<appliedenergistics2:certus_quartz_wrench>,
